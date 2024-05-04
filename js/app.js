@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/apk_web_11.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/apk_web_12.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
